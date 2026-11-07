@@ -20,3 +20,7 @@
     alt="LinkedIn"
   />
 </a>
+![GitHub stars](https://img.shields.io/github/stars/peteryzbruun/digital-badges)
+![Status](https://img.shields.io/badge/Status-Planning-blue)
+
+
